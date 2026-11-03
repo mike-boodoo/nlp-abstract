@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=8
+scikit-learn>=1.4
+nltk>=3.8
